@@ -5,10 +5,10 @@
       "submenu": [{
         "label": "Synchronize Settings",
         "submenu": [
-          { "label": "Backup", "command": "sync-settings:backup" },
-          { "label": "Restore", "command": "sync-settings:restore" },
-          { "label": "View backup", "command": "sync-settings:view-backup" },
-          { "label": "Check for updated backup", "command": "sync-settings:check-backup" }
+          { "label": "Backup", "command": "sync-settings-fork:backup" },
+          { "label": "Restore", "command": "sync-settings-fork:restore" },
+          { "label": "View backup", "command": "sync-settings-fork:view-backup" },
+          { "label": "Check for updated backup", "command": "sync-settings-fork:check-backup" }
         ]
       }
       ]
