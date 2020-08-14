@@ -1,6 +1,7 @@
 # Sync Settings for Atom
 
-![CI](https://github.com/atom-community/sync-settings/workflows/CI/badge.svg)
+
+***IMPORTANT NOTE: This is a fork from [sync-settings](https://github.com/atom-community/sync-settings) for private usage with [EOL bug fix](https://github.com/atom-community/sync-settings/pull/538).***
 
 Synchronize settings, keymaps, user styles, init script, snippets and installed packages across [Atom](https://atom.io) instances.
 
@@ -15,7 +16,7 @@ Synchronize settings, keymaps, user styles, init script, snippets and installed 
 
 ## Installation
 
-`$ apm install sync-settings` or using the Install button from [Atom.io](https://atom.io/packages/sync-settings).
+`$ apm install sync-settings-fork` or using the Install button from [Atom.io](https://atom.io/packages/sync-settings-fork).
 
 ## Backup locations
 

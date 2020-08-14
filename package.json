@@ -1,18 +1,18 @@
 {
-  "name": "sync-settings",
+  "name": "sync-settings-fork",
   "main": "./lib/main",
   "version": "4.3.8",
-  "description": "Synchronize package settings, keymap and installed packages",
+  "description": "Fork of sync-settings for private usage with some bugs fixed",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom-community/sync-settings"
+    "url": "https://github.com/garyyeap/sync-settings"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom-community/sync-settings/issues"
+    "url": "https://github.com/garyyeap/sync-settings/issues"
   },
   "commits": {
-    "url": "https://github.com/atom-community/sync-settings/commit"
+    "url": "https://github.com/garyyeap/sync-settings/commit"
   },
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
