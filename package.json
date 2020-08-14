@@ -1,7 +1,7 @@
 {
   "name": "sync-settings-fork",
   "main": "./lib/main",
-  "version": "4.3.9",
+  "version": "4.3.10",
   "description": "Fork of sync-settings for private usage with some bugs fixed",
   "repository": {
     "type": "git",
